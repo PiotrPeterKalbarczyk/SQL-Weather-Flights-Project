@@ -31,6 +31,9 @@ This project addresses a business challenge for the flight-scheduling department
 - README.md: Project documentation
 - scripts/ : Main SQL script for analysis
 - data/ : Sample data files 
+
+The flight data used in this project is too large to upload here. You can access the dataset (https://drive.google.com/drive/folders/15EurlCbmLbGBGo0P0TRCal00GOY6Le_r?usp=sharing).
+
 ```
 
 ---
